@@ -1,12 +1,11 @@
 {
-  "name": "jpo29032025",
+  "name": "jpo24062025",
   "version": "1.0.0",
   "description": "Email template build process",
-  "main": "gulpfile.js",
+  "main": "gulpfile.mjs",
   "scripts": {
     "build": "gulp",
     "dev": "gulp watch",
-    "image": "gulp compressImg",
     "verification": "gulp verification"
   },
   "keywords": [],
