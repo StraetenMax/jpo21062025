@@ -65,7 +65,6 @@
         <mj-text align="right" padding="0px 30px" mj-class="T16-700 cT1">Hélène Salmon</mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Responsable des études</mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Hôtellerie</mj-text>
-        <mj-button padding="0" padding-top="20px" width="280px" mj-class="T16-700 bg0 cTW"><span style="text-transform:uppercase;">Journée Portes Ouvertes</span> samedi 21 juin de 9h30 à 13h</mj-button>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#ffffff" padding="20px">
@@ -94,12 +93,7 @@
         <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-hotellerie.fr" target="_blank">www.ecosup-hotellerie.fr</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="20px" padding-bottom="0px" background-color="#ffffff">
-      <mj-column width="88%">
-        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Hôtellerie Restauration de Bac+2 à Bac+5</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="20px" background-color="#ffffff">
+    <mj-section padding="20px" background-color="#e6e6e6">
       <mj-column width="30%">
         <mj-image padding="0" width="224px" src="https://i.ibb.co/zWkzZnrQ/form04-Hot-Jpo24052025.png" alt="formation Mise à niveau découverte de l'hôtellerie et de la restauration"/>
       </mj-column>
@@ -114,8 +108,6 @@
            <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Bourse Ecosup</span>,</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Formation initiale ou continue. Financement possible grâce à la mobilisation du CPF ou autres organismes extérieurs.</mj-text>
-        <mj-button padding-top="15px" target="_blank" href="https://ecosup-hotellerie.fr/mise-a-niveau-2">
-           En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche hôtellerie rouge"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -123,7 +115,7 @@
         <mj-spacer height="10px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section padding="20px" background-color="#ffffff" direction="rtl">
+    <mj-section padding="20px" background-color="#e6e6e6" direction="rtl">
       <mj-column width="30%">
         <mj-image padding="0" width="224px" src="https://i.ibb.co/p6pFwGDJ/form03-Hot-Jpo24052025.png" alt="formation BTS Management Hôtellerie Restauration"/>
       </mj-column>
@@ -139,7 +131,6 @@
            <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Diplôme reconnue par l'État</span>,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button padding-top="15px" target="_blank" href="https://ecosup-hotellerie.fr/bts-management-hotellerie-restauration-apprentissage">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche hôtellerie rouge"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -147,7 +138,7 @@
         <mj-spacer height="10px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section padding="20px" background-color="#ffffff">
+    <mj-section padding="20px" background-color="#e6e6e6">
       <mj-column width="30%">
         <mj-image padding="0" width="224px" src="https://i.ibb.co/d1NGJSc/form02-Hot-Jpo24052025.png" alt="formation Bachelor Chargé(e) de Gestion commerciale en Hôtellerie"/>
       </mj-column>
@@ -162,7 +153,6 @@
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Travel Week</span>, semaine immersive en mobilité internationale,</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button padding-top="15px" target="_blank" href="https://ecosup-hotellerie.fr/bachelor-responsable-commercial-en-hotellerie">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche hôtellerie rouge"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -170,7 +160,7 @@
         <mj-spacer height="10px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section padding="20px" background-color="#ffffff" direction="rtl">
+    <mj-section padding="20px" background-color="#e6e6e6" direction="rtl">
       <mj-column width="30%">
         <mj-image padding="0" width="224px" src="https://i.ibb.co/xqC5DdSt/form01-Hot-Jpo24052025.png" alt="Mastère Manager des organisations en hôtellerie"/>
       </mj-column>
@@ -186,40 +176,9 @@
            <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Double certification internationale</span>,</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button padding-top="15px" target="_blank" href="https://ecosup-hotellerie.fr/mastere-manager-organisations-hotellerie">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche Hôtellerie rouge"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#e6e6e6" padding="20px">
-      <mj-section padding="0px">
-        <mj-group width="100%">
-          <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/tMJ7BXR2/jpo02-Hot2025article.png" alt="Ecosup Campus soutient Movember, l'opération de la lutte sur le cancer de la prostate"/>
-          </mj-column>
-          <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/JRQhkzfY/jpo01-Hot2025article.png" alt="Les étudiants hôtellerie restauration participent à l'opération Movember"/>
-          </mj-column>
-          <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/cKSD6nP9/jpo07-Hot2025article.png" alt="L'univerne, le restaurant éphémère créé par les étudiants"/>
-          </mj-column>
-          <mj-column width="25%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/n8LgmDbv/jpo05-Hot2025article.png" alt="Objectif Top Chef, concours culinaire organisé pour les étudiants de la restauration et de l'hôtellerie"/>
-          </mj-column>
-        </mj-group>
-        <mj-group width="75%">
-          <mj-column width="33.333333%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/zhH6pvxx/jpo06-Hot2025article.png" alt="Affiche de Mardi gras"/>
-          </mj-column>
-          <mj-column width="33.333333%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/Z1ML03s3/jpo04-Hot2025article.png" alt="Participation à Octobre rose, la lutte contre le cancer du sein"/>
-          </mj-column>
-          <mj-column width="33.333333%">
-            <mj-image padding="1px" width="300px" src="https://i.ibb.co/hRHW9p19/jpo03-Hot2025article.png" alt="Opération Octobre rose : les étudiants reversent l'argent gagné au restaurant d'application à l'association Laet's go"/>
-          </mj-column>
-        </mj-group>
-        <mj-column width="25%">
-          <mj-image padding="1px" width="300px" src="https://i.ibb.co/xtNt9KbL/04jpo2025article-SM.png" alt="Remise des diplômes"/>
-        </mj-column>
-      </mj-section>
       <mj-section padding="0px">
         <mj-column width="100%">
           <mj-text align="center" padding="20px 25px" padding-bottom="0px" mj-class="T24-300 cT1">Vie étudiante à Ecosup Campus</mj-text>
