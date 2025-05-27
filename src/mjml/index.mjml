@@ -48,7 +48,6 @@
     </mj-section>
     <mj-section background-color="#ecebf3" padding="0">
       <mj-column>
-        <mj-image padding="0" width="600px" src="https://i.ibb.co/G388CX6y/jpo24052025-Hot01.png" alt="Restaurant de pizza et de paëlla en nocturne "/>
         <mj-image padding="0" width="600px" src="https://i.ibb.co/cXtXJk4S/jpo24052025-01.png" alt="affiche de la jpo du samedi 24 mai 2025"/>
       </mj-column>
     </mj-section>
