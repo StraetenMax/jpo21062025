@@ -68,6 +68,32 @@
         <mj-button padding="0" padding-top="20px" width="280px" mj-class="T16-700 bg0 cTW"><span style="text-transform:uppercase;">Journée Portes Ouvertes</span> samedi 21 juin de 9h30 à 13h</mj-button>
       </mj-column>
     </mj-section>
+    <mj-wrapper background-color="#ffffff" padding="20px">
+      <mj-section padding="0px">
+        <mj-group width="225px">
+          <mj-column width="33.333333%">
+            <mj-image align="right" padding="10px" width="75px" src="https://i.ibb.co/DPZSYNzY/google-Map96x96x2.png" alt="google maps" href="https://www.google.com/maps/search/?api=1&amp;query=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+          </mj-column>
+          <mj-column width="33.333333%">
+            <mj-image align="center" padding="10px" width="75px" src="https://i.ibb.co/zTWty3n5/waze96x96x2.png" alt="waze" href="https://waze.com/ul?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+          </mj-column>
+          <mj-column width="33.333333%">
+            <mj-image align="left" padding="10px" width="75px" src="https://i.ibb.co/6c99Z3Jt/apple-Maps96x96x2.png" alt="apple maps" href="http://maps.apple.com/?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-column width="450px">
+          <mj-text align="center" padding="0" mj-class="T24-300 cT1">Où nous trouver</mj-text>
+          <mj-text align="center" padding="0" padding-bottom="10px" mj-class="T13-400 cT0">cliquez sur l'icon de votre choix pour organiser votre itinéraire</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section mj-class="bg1" padding="0 20px">
+      <mj-column>
+        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-hotellerie.fr" target="_blank">www.ecosup-hotellerie.fr</a></mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section padding="20px" padding-bottom="0px" background-color="#ffffff">
       <mj-column width="88%">
         <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Hôtellerie Restauration de Bac+2 à Bac+5</mj-text>
@@ -208,32 +234,6 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-wrapper background-color="#ffffff" padding="20px">
-      <mj-section padding="0px">
-        <mj-column width="450px">
-          <mj-text align="center" padding="0" mj-class="T24-300 cT1">Où nous trouver</mj-text>
-          <mj-text align="center" padding="0" padding-bottom="10px" mj-class="T13-400 cT0">cliquez sur l'icon de votre choix pour organiser votre itinéraire</mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section padding="0px">
-        <mj-group width="225px">
-          <mj-column width="33.333333%">
-            <mj-image align="right" padding="10px" width="75px" src="https://i.ibb.co/DPZSYNzY/google-Map96x96x2.png" alt="google maps" href="https://www.google.com/maps/search/?api=1&amp;query=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
-          </mj-column>
-          <mj-column width="33.333333%">
-            <mj-image align="center" padding="10px" width="75px" src="https://i.ibb.co/zTWty3n5/waze96x96x2.png" alt="waze" href="https://waze.com/ul?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
-          </mj-column>
-          <mj-column width="33.333333%">
-            <mj-image align="left" padding="10px" width="75px" src="https://i.ibb.co/6c99Z3Jt/apple-Maps96x96x2.png" alt="apple maps" href="http://maps.apple.com/?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
-          </mj-column>
-        </mj-group>
-      </mj-section>
-    </mj-wrapper>
-    <mj-section mj-class="bg1" padding="0 20px">
-      <mj-column>
-        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-hotellerie.fr" target="_blank">www.ecosup-hotellerie.fr</a></mj-text>
-      </mj-column>
-    </mj-section>
     <mj-section background-color="#1a1a1a" padding="20px 32px">
       <mj-column width="320px">
         <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
