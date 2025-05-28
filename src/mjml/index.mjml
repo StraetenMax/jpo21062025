@@ -33,7 +33,7 @@
       <mj-class name="c1" color="#74151E"/>
       <mj-class name="bg1" background-color="#74151E"/>
     </mj-attributes>
-    <mj-breakpoint width="460px"></mj-breakpoint>
+    <mj-breakpoint width="420px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#f2f2f2" width="600px">
     <mj-section padding="0">
@@ -94,10 +94,10 @@
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#e6e6e6">
-      <mj-column width="30%">
+      <mj-column width="20%">
         <mj-image padding="0" width="224px" src="./images/review.png" alt=""/>
       </mj-column>
-      <mj-column width="70%">   
+      <mj-column width="80%">   
         <mj-spacer height="20px"></mj-spacer>
         <mj-text align="left" padding="0px 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en initial</mj-text>
         <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="font-weight:700;color:#C21718;">MAN</span> Mise à Niveau Hôtellerie Restauration</mj-text>
@@ -116,10 +116,10 @@
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#e6e6e6">
-      <mj-column width="30%">
+      <mj-column width="20%">
         <mj-image padding="0" width="224px" src="./images/review.png" alt=""/>
       </mj-column>
-      <mj-column width="70%">
+      <mj-column width="80%">
         <mj-spacer height="20px"></mj-spacer>
         <mj-text align="left" padding="0 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
         <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="font-weight:700;color:#C21718;">BTS</span> Management de l'Hôtellerie - Restauration</mj-text>
@@ -139,10 +139,10 @@
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#e6e6e6">
-      <mj-column width="30%">
+      <mj-column width="20%">
         <mj-image padding="0" width="224px" src="./images/review.png" alt=""/>
       </mj-column>
-      <mj-column width="70%">
+      <mj-column width="80%">
         <mj-spacer height="20px"></mj-spacer>
         <mj-text align="left" padding="0px 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
         <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="font-weight:700;color:#c21718;">Bachelor</span> Responsable commercial en Hôtellerie</mj-text>
@@ -161,10 +161,10 @@
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#e6e6e6">
-      <mj-column width="30%">
+      <mj-column width="20%">
         <mj-image padding="0" width="224px" src="./images/review.png" alt=""/>
       </mj-column>
-      <mj-column width="70%">
+      <mj-column width="80%">
         <mj-spacer height="20px"></mj-spacer>
         <mj-text align="left" padding="0px 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
         <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="font-weight:700;color:#C21718;">Mastère</span> Manager des Organisations en Hôtellerie</mj-text>
