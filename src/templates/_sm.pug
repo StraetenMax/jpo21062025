@@ -1,7 +1,7 @@
 mjml
     //- Head
     mj-head
-        mj-title JPO du 21 juin 2025 Ecosup Hôtellerie
+        mj-title JPO du 21 juin 2025 Ecosup Santé
         mj-font(name='Roboto' href='https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap')
         mj-font(name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css")/
         mj-raw.
@@ -23,17 +23,17 @@ mjml
             mj-class(name='T13-700' font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size='13px' line-height='17px' font-weight="700")/
             mj-class(name='T13-400' font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size='13px' line-height='17px' font-weight="400")/
             mj-class(name='T10-300' font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size='10px' line-height='12px' font-weight="300")/
-            mj-button(border="2px solid #C21718" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#C21718")
+            mj-button(border="2px solid #2386C8" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#2386c8")
             //- Black colors text
             mj-class(name="cT1" color="#1a1a1a")/
             mj-class(name="cT0" color="#4d4d4d")/
             mj-class(name="cT2" color="#999999")/
             mj-class(name="cTW" color="#ffffff")/
             //- Colors
-            mj-class(name="c0" color="#C21718")/
-            mj-class(name="bg0" background-color="#C21718")/
-            mj-class(name="c1" color="#74151E")/
-            mj-class(name="bg1" background-color="#74151E")/
+            mj-class(name="c0" color="#2386c8")/
+            mj-class(name="bg0" background-color="#2386c8")/
+            mj-class(name="c1" color="#114364")/
+            mj-class(name="bg1" background-color="#114364")/
         mj-breakpoint(width="420px")
     //- Body
     mj-body(background-color='#f2f2f2' width="600px")
@@ -41,14 +41,14 @@ mjml
         block content
         //- bloc header
         block header
-            include ../includes/hotellerie/_header
+            include ../includes/sm/_header
         //- bloc itineraire
         block itineraire
-            include ../includes/hotellerie/_itineraire
+            include ../includes/sm/_itineraire
         //- bloc formations
         block formations
-            include ../includes/hotellerie/_formations
-        //- bloc vie du campus
+            include ../includes/sm/_formations
+        //- bloc article
         block article
             include ../includes/_article
         //- bloc footer
