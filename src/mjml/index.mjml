@@ -179,19 +179,17 @@
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#e6e6e6" padding="20px">
-      <mj-section padding="0px">
-        <mj-column width="100%">
-          <mj-text align="center" padding="20px 25px" padding-bottom="0px" mj-class="T24-300 cT1">Vie étudiante à Ecosup Campus</mj-text>
-          <mj-text align="center" padding="0" padding-bottom="10px" mj-class="T13-400 cT0">suivez nous sur les réseaux sociaux</mj-text>
-        </mj-column>
-        <mj-column width="100%">
-          <mj-social align="center" padding="0 25px" icon-size="30px" icon-height="30px" inner-padding="20px" mode="horizontal">
-            <mj-social-element src="https://i.ibb.co/Zpt03yRy/hotellerie-Facebook.png" href="https://www.facebook.com/EcosupCamp/" target="_blank" alt="icon facebook"></mj-social-element>
-            <mj-social-element src="https://i.ibb.co/PZNTYBr7/hotellerie-Instagram.png" href="https://www.instagram.com/ecosup.campus/" target="_blank" alt="icon instagram"></mj-social-element>
-            <mj-social-element src="https://i.ibb.co/JR2j3yh4/hotellerie-Linkedin.png" href="https://www.linkedin.com/company/ecosup-campus" target="_blank" alt="icon linkedin"></mj-social-element>
-          </mj-social>
-        </mj-column>
-      </mj-section>
+      <mj-column width="100%">
+        <mj-text align="center" padding="20px 25px" padding-bottom="0px" mj-class="T24-300 cT1">Vie étudiante à Ecosup Campus</mj-text>
+        <mj-text align="center" padding="0" padding-bottom="10px" mj-class="T13-400 cT0">suivez nous sur les réseaux sociaux</mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-social align="center" padding="0 25px" icon-size="30px" icon-height="30px" inner-padding="20px" mode="horizontal">
+          <mj-social-element src="https://i.ibb.co/Zpt03yRy/hotellerie-Facebook.png" href="https://www.facebook.com/EcosupCamp/" target="_blank" alt="icon facebook"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/PZNTYBr7/hotellerie-Instagram.png" href="https://www.instagram.com/ecosup.campus/" target="_blank" alt="icon instagram"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/JR2j3yh4/hotellerie-Linkedin.png" href="https://www.linkedin.com/company/ecosup-campus" target="_blank" alt="icon linkedin"></mj-social-element>
+        </mj-social>
+      </mj-column>
     </mj-wrapper>
     <mj-section background-color="#1a1a1a" padding="20px 32px">
       <mj-column width="320px">
