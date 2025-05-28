@@ -95,7 +95,7 @@
     </mj-section>
     <mj-section padding="20px" background-color="#e6e6e6">
       <mj-column width="30%">
-        <mj-image padding="0" width="224px" src="https://i.ibb.co/zWkzZnrQ/form04-Hot-Jpo24052025.png" alt="formation Mise à niveau découverte de l'hôtellerie et de la restauration"/>
+        <mj-image padding="0" width="224px" src="./images/review.png" alt=""/>
       </mj-column>
       <mj-column width="70%">   
         <mj-spacer height="20px"></mj-spacer>
@@ -115,9 +115,9 @@
         <mj-spacer height="10px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section padding="20px" background-color="#e6e6e6" direction="rtl">
+    <mj-section padding="20px" background-color="#e6e6e6">
       <mj-column width="30%">
-        <mj-image padding="0" width="224px" src="https://i.ibb.co/p6pFwGDJ/form03-Hot-Jpo24052025.png" alt="formation BTS Management Hôtellerie Restauration"/>
+        <mj-image padding="0" width="224px" src="./images/review.png" alt=""/>
       </mj-column>
       <mj-column width="70%">
         <mj-spacer height="20px"></mj-spacer>
@@ -140,7 +140,7 @@
     </mj-section>
     <mj-section padding="20px" background-color="#e6e6e6">
       <mj-column width="30%">
-        <mj-image padding="0" width="224px" src="https://i.ibb.co/d1NGJSc/form02-Hot-Jpo24052025.png" alt="formation Bachelor Chargé(e) de Gestion commerciale en Hôtellerie"/>
+        <mj-image padding="0" width="224px" src="./images/review.png" alt=""/>
       </mj-column>
       <mj-column width="70%">
         <mj-spacer height="20px"></mj-spacer>
@@ -160,9 +160,9 @@
         <mj-spacer height="10px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section padding="20px" background-color="#e6e6e6" direction="rtl">
+    <mj-section padding="20px" background-color="#e6e6e6">
       <mj-column width="30%">
-        <mj-image padding="0" width="224px" src="https://i.ibb.co/xqC5DdSt/form01-Hot-Jpo24052025.png" alt="Mastère Manager des organisations en hôtellerie"/>
+        <mj-image padding="0" width="224px" src="./images/review.png" alt=""/>
       </mj-column>
       <mj-column width="70%">
         <mj-spacer height="20px"></mj-spacer>
