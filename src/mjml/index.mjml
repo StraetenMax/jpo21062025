@@ -27,6 +27,7 @@
       <mj-button border="2px solid #C21718" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#C21718"></mj-button>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
+      <mj-class name="cT2" color="#999999"/>
       <mj-class name="cTW" color="#ffffff"/>
       <mj-class name="c0" color="#C21718"/>
       <mj-class name="bg0" background-color="#C21718"/>
@@ -178,27 +179,31 @@
            <span style="color:#999999;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-wrapper background-color="#e6e6e6" padding="20px">
-      <mj-column width="100%">
-        <mj-text align="center" padding="20px 25px" padding-bottom="0px" mj-class="T24-300 cT1">Vie étudiante à Ecosup Campus</mj-text>
-        <mj-text align="center" padding="0" padding-bottom="10px" mj-class="T13-400 cT0">suivez nous sur les réseaux sociaux</mj-text>
-      </mj-column>
-      <mj-column width="100%">
-        <mj-social align="center" padding="0 25px" icon-size="30px" icon-height="30px" inner-padding="20px" mode="horizontal">
-          <mj-social-element src="https://i.ibb.co/Zpt03yRy/hotellerie-Facebook.png" href="https://www.facebook.com/EcosupCamp/" target="_blank" alt="icon facebook"></mj-social-element>
-          <mj-social-element src="https://i.ibb.co/PZNTYBr7/hotellerie-Instagram.png" href="https://www.instagram.com/ecosup.campus/" target="_blank" alt="icon instagram"></mj-social-element>
-          <mj-social-element src="https://i.ibb.co/JR2j3yh4/hotellerie-Linkedin.png" href="https://www.linkedin.com/company/ecosup-campus" target="_blank" alt="icon linkedin"></mj-social-element>
-        </mj-social>
-      </mj-column>
+    <mj-wrapper background-color="#1a1a1a" padding="32px" padding-bottom="0">
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text align="center" padding="20px 25px" padding-bottom="0px" mj-class="T24-300 cT2">Vie étudiante à Ecosup&nbsp;Campus</mj-text>
+          <mj-text align="center" padding="0" mj-class="T13-400 cT2">suivez nous sur les réseaux sociaux</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">  
+        <mj-column>
+          <mj-social align="center" padding="0 25px" icon-size="30px" icon-height="30px" inner-padding="20px" mode="horizontal">
+            <mj-social-element src="https://i.ibb.co/SwnfcyPX/facebook-H21062025.png" href="https://www.facebook.com/EcosupCamp/" target="_blank" alt="icon facebook"></mj-social-element>
+            <mj-social-element src="https://i.ibb.co/35HB8DPm/instagram-H21062025.png" href="https://www.instagram.com/ecosup.campus/" target="_blank" alt="icon instagram"></mj-social-element>
+            <mj-social-element src="https://i.ibb.co/RG769FDr/linkedin-H21062025.png" href="https://www.linkedin.com/company/ecosup-campus" target="_blank" alt="icon linkedin"></mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
     </mj-wrapper>
-    <mj-section background-color="#1a1a1a" padding="20px 32px">
+    <mj-section background-color="#1a1a1a" padding="32px" padding-top="0">
       <mj-column width="320px">
         <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
-        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;color:#b3b3b3" href="https://urlr.me/WS5h6U">17 Place Charles et Albert Roussel</a></mj-text>
-        <mj-text padding="0" align="center" mj-class="T13-400" text-transform="uppercase"><a style="text-decoration:none;color:#b3b3b3" href="https://urlr.me/WS5h6U">59200 Tourcoing</a></mj-text>
-        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;font-weight:700;color:#b3b3b3;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
-        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;color:#b3b3b3;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
-        <mj-text padding="0" align="center" mj-class=" T13-400"><a style="text-decoration:none;font-weight:700;color:#b3b3b3;" href="https://ecosup-campus.fr">www.ecosup-campus.fr</a> </mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;color:#999999" href="https://urlr.me/WS5h6U">17 Place Charles et Albert Roussel</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400" text-transform="uppercase"><a style="text-decoration:none;color:#999999" href="https://urlr.me/WS5h6U">59200 Tourcoing</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;font-weight:700;color:#999999;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;color:#999999;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" mj-class=" T13-400"><a style="text-decoration:none;font-weight:700;color:#999999;" href="https://ecosup-campus.fr">www.ecosup-campus.fr</a> </mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="30px">
