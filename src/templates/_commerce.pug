@@ -39,9 +39,12 @@ mjml
     mj-body(background-color='#f2f2f2' width="600px")
         //- content
         block content
-        //- bloc header
-            block header
-            include ../includes/commerce/_header
+        //- bloc header images
+        block headimg
+            include ../includes/commerce/_headimg
+        //- bloc header textes
+            block headtext
+            include ../includes/commerce/_headtext
         //- bloc information
         block itineraire
             include ../includes/commerce/_itineraire

@@ -39,9 +39,12 @@ mjml
     mj-body(background-color='#f2f2f2' width="600px")
         //- content
         block content
-        //- bloc header
-            block header
-            include ../includes/dietetique/_header
+        //- bloc header images
+        block headimg
+            include ../includes/dietetique/_headimg
+        //- bloc header texte
+            block headtext
+            include ../includes/dietetique/_headtext
         //- bloc itineraire
         block itineraire
             include ../includes/dietetique/_itineraire

@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>JPO du 24 mai 2025 Ecosup Santé</mj-title>
+    <mj-title>JPO du 21 juin 2025 Ecosup Tourisme</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap"></mj-font>
     <mj-font name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
     <mj-raw>
@@ -24,17 +24,17 @@
       <mj-class name="T13-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="700"/>
       <mj-class name="T13-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="400"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
-      <mj-button border="2px solid #2DAAE1" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#2DAAE1"></mj-button>
+      <mj-button border="2px solid #1F3C90" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#1F3C90"></mj-button>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
       <mj-class name="cT2" color="#999999"/>
       <mj-class name="cTW" color="#ffffff"/>
-      <mj-class name="c0" color="#2daae1"/>
-      <mj-class name="bg0" background-color="#2daae1"/>
-      <mj-class name="c1" color="#055063"/>
-      <mj-class name="bg1" background-color="#055063"/>
+      <mj-class name="c0" color="#1F3C90"/>
+      <mj-class name="bg0" background-color="#1F3C90"/>
+      <mj-class name="c1" color="#20274F"/>
+      <mj-class name="bg1" background-color="#20274F"/>
     </mj-attributes>
-    <mj-breakpoint width="460px"></mj-breakpoint>
+    <mj-breakpoint width="420px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#f2f2f2" width="600px">
     <mj-section padding="0">
@@ -91,22 +91,25 @@
     </mj-wrapper>
     <mj-section mj-class="bg1" padding="0 20px">
       <mj-column>
-        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-sante.fr/accompagnant-petite-enfance" target="_blank">www.ecosup-sante.fr</a></mj-text>
+        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-tourisme.fr" target="_blank">www.ecosup-tourisme.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#e6e6e6">
       <mj-column width="20%">
-        <mj-image padding="0" width="224px" src="https://i.ibb.co/N6CNzTsk/icon-Aepe062025.png" alt="icon main dans la main"/>
+        <mj-image padding="0" width="224px" src="https://i.ibb.co/9kndN5PR/icon-Tour062025.png" alt="icon Tourisme : terre, valise et avion"/>
       </mj-column>
-      <mj-column width="80%">   
+      <mj-column width="80%">
         <mj-spacer height="20px"></mj-spacer>
-        <mj-text align="left" padding="0px 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en initial</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#2daae1;">&#x27A4;</span> <span style="font-weight:700;color:#1a1a1a;">AEPE</span> Accompagnant(e) éducatif petite enfance</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+        <mj-text align="left" padding="0 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#1F3C90;">&#x27A4;</span> <span style="font-weight:700;color:#1a1a1a;">BTS</span> Tourisme</mj-text>
+        <mj-text align="left" padding="0px 15px" mj-class="T16-400 cT0">
            <span style="color:#999999;">&#x25CF;</span> Post-Bac,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#999999;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">12 mois</span>,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#999999;">&#x25CF;</span> Formation initiale ou continue. Financement possible grâce à la mobilisation du CPF ou autres organismes extérieurs.</mj-text>
+        <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
+        <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">préparation au CCA</span>, Cabin Crew Attestation,</mj-text>
+        <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -116,17 +119,41 @@
     </mj-section>
     <mj-section padding="20px" background-color="#e6e6e6">
       <mj-column width="20%">
-        <mj-image padding="0" width="224px" src="https://i.ibb.co/N6CNzTsk/icon-Aepe062025.png" alt="icon main dans la main"/>
+        <mj-image padding="0" width="224px" src="https://i.ibb.co/9kndN5PR/icon-Tour062025.png" alt="icon Tourisme : terre, valise et avion"/>
       </mj-column>
       <mj-column width="80%">
         <mj-spacer height="20px"></mj-spacer>
-        <mj-text align="left" padding="0 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#2daae1;">&#x27A4;</span> <span style="font-weight:700;color:#1a1a1a;">AEPE</span> Accompagnant(e) éducatif petite enfance</mj-text>
-        <mj-text align="left" padding="0px 15px" mj-class="T16-400 cT0">
-           <span style="color:#999999;">&#x25CF;</span> Post-Bac,</mj-text>
-        <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
-           <span style="color:#999999;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">12 mois</span>,</mj-text>
-        <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
+        <mj-text align="left" padding="0px 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#1F3C90;">&#x27A4;</span> <span style="font-weight:700;color:#1a1a1a;">Bachelor</span> Responsable commercial en tourisme</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Post-Bac+2,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">1 an</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Travel Week</span>, semaine immersive en mobilité internationale,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#999999;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="10px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#e6e6e6">
+      <mj-column width="20%">
+        <mj-image padding="0" width="224px" src="https://i.ibb.co/9kndN5PR/icon-Tour062025.png" alt="Icon Tourisme : terre, valise et avion"/>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text align="left" padding="0px 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#1F3C90;">&#x27A4;</span> <span style="font-weight:700;color:#1a1a1a;">Mastère</span> Management stratégique des entreprises du tourisme</mj-text>
+        <mj-text padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Post-Bac+3,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Double certification internationale</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#999999;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
       </mj-column>
     </mj-section>
