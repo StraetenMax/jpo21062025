@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>JPO du 21 juin 2025 Ecosup Immobilier</mj-title>
+    <mj-title>JPO du 21 juin 2025 Ecosup Hôtellerie</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap"></mj-font>
     <mj-font name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
     <mj-raw>
@@ -24,15 +24,16 @@
       <mj-class name="T13-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="700"/>
       <mj-class name="T13-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="400"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
-      <mj-button border="2px solid #EC6608" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#EC6608"></mj-button>
+      <mj-button border="2px solid #C21718" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#C21718"></mj-button>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
-      <mj-class name="cT2" color="#999999"></mj-class>
+      <mj-class name="cT2" color="#999999"/>
       <mj-class name="cTW" color="#ffffff"/>
-      <mj-class name="c0" color="#EC6608"/>
-      <mj-class name="bg0" background-color="#EC6608"/>
-      <mj-class name="c1" color="#AA3E17"/>
-      <mj-class name="bg1" background-color="#AA3E17"/>
+      <mj-class name="bgW" background-color="#ffffff"/>
+      <mj-class name="c0" color="#C21718"/>
+      <mj-class name="bg0" background-color="#C21718"/>
+      <mj-class name="c1" color="#74151E"/>
+      <mj-class name="bg1" background-color="#74151E"/>
     </mj-attributes>
     <mj-breakpoint width="420px"></mj-breakpoint>
   </mj-head>
@@ -44,7 +45,7 @@
     </mj-section>
     <mj-section padding="20px">
       <mj-column>
-        <mj-image padding="0" width="153px" src="https://i.ibb.co/TqgzjgC3/ecosup-Immobilier.png" alt="logo Ecosup Immobilier"/>
+        <mj-image padding="0" width="153px" src="https://i.ibb.co/ZGht1kv/logo-EHotellerie.png" alt="logo Ecosup Hôtellerie"/>
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bg0">
@@ -55,18 +56,44 @@
     <mj-section padding="0" mj-class="bg0">
       <mj-group width="100%">
         <mj-column width="50%">
-          <mj-image padding="0" width="300px" src="https://i.ibb.co/Y7DW32fN/jpo1-Img21062025.png" alt="Groupe d'étudiant"/>
+          <mj-image padding="0" width="300px" src="https://i.ibb.co/Y7DW32fN/jpo1-Img21062025.png" alt="Groupe d'étudiants"/>
         </mj-column>
         <mj-column width="25%">
-          <mj-image padding="0" width="150px" src="https://i.ibb.co/pB6RBFP0/imo1.jpg" alt="Clé d'acquisition de la maison"/>
+          <mj-image padding="0" width="150px" src="https://i.ibb.co/vxXhw6vZ/hot4.jpg" alt="Explication du travail par le manager"/>
         </mj-column>
         <mj-column width="25%">
-          <mj-image padding="0" width="150px" src="https://i.ibb.co/PvXWxt3P/jpo-Immo-Img21062025.jpg" alt="Négociation immobilière"/>
+          <mj-image padding="0" width="150px" src="https://i.ibb.co/Sw5D1h4s/jpo-Hot-Img21062025.jpg" alt="Travail en cuisine"/>
         </mj-column>
       </mj-group>
       <mj-column mj-class="bg0" width="100%">
         <mj-text align="center" padding="3px 20px" mj-class="T16-700 cTW">Journée Portes Ouvertes samedi&nbsp;21&nbsp;juin&nbsp;de&nbsp;9h30&nbsp;à&nbsp;13h</mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px"> 
+      <mj-column width="88%">
+        <mj-text padding="5px 10px" mj-class="T36-900 c0">Votre carrière dans l'Hôtellerie Restauration commence ici, à nos côtés&nbsp;! </mj-text>
+        <mj-text padding="5px 10px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">{{ contact.PRENOM }}</span>, vous souhaitez vous former dans un secteur dynamique et en pleine évolution&nbsp;? </mj-text>
+        <mj-text padding="5px 10px" mj-class="T16-400 cT0">Découvrez un programme diplômant en alternance qui vous permet de conjuguer apprentissage théorique et expérience professionnelle dans l'hôtellerie-restaration.</mj-text>
+        <mj-text padding="0px 10px" mj-class="T16-400 cT0">Lors de cette matinée d'immersion, vous pourrez&nbsp;:</mj-text>
+        <mj-text padding="0px 10px" mj-class="T16-400 cT0">- Explorer un campus moderne,</mj-text>
+        <mj-text padding="0px 10px" mj-class="T16-400 cT0">- Échanger avec des experts et des étudiants,</mj-text>
+        <mj-text padding="0px 10px" mj-class="T16-400 cT0">- Assister à des présentations détaillées sur nos formations, notamment en alternance,</mj-text>
+        <mj-text padding="0px 10px" mj-class="T16-400 cT0">- Obtenir des réponses à vos questions sur les admissions et la vie étudiante,</mj-text>
+        <mj-text padding="0px 10px" mj-class="T16-400 cT0">- Découvrir les nombreuses perspectives de carrière offertes par l'hôtellerie et la restauration</mj-text>
+        <mj-text padding="0px 10px" mj-class="T16-400 cT0">Une opportunité à saisir pour concrétiser vos ambitions et bâtir un projet professionnel solide.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="bgW" padding="0 30px 20px 20px">
+      <mj-group>
+        <mj-column width="80%" vertical-align="bottom">   
+          <mj-text align="right" padding="0px 10px" mj-class="T13-700 cT1">Hélène Salmon</mj-text>
+          <mj-text align="right" padding="0px 10px" mj-class="T13-400 cT0">Responsable des études</mj-text>
+          <mj-text align="right" padding="0px 10px" mj-class="T13-400 cT0">Ecosup Hôtellerie</mj-text>
+        </mj-column>
+        <mj-column width="20%"> 
+          <mj-image padding="0" width="120px" border-radius="10px 0px" src="https://i.ibb.co/nNn2KVYL/Helene21062025.jpg"></mj-image>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-wrapper background-color="#ffffff" padding="20px">
       <mj-section padding="0px">
@@ -91,22 +118,91 @@
     </mj-wrapper>
     <mj-section mj-class="bg1" padding="0 20px">
       <mj-column>
-        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-commerce.fr/bts-professions-immobilieres/" target="_blank">www.ecosup-immobilier.fr</a></mj-text>
+        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-hotellerie.fr" target="_blank">www.ecosup-hotellerie.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#e6e6e6">
       <mj-column width="20%">
-        <mj-image padding="0" width="224px" src="https://i.ibb.co/x8cRbcM9/icon-Immo062025.png" alt="icon clé de maison"/>
+        <mj-image padding="0" width="224px" src="https://i.ibb.co/jkmfByQp/icon-Hot062025.png" alt="icon cinq étoiles"/>
+      </mj-column>
+      <mj-column width="80%">   
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text align="left" padding="0px 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en initial</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#C21718;">&#x27A4;</span> <span style="font-weight:700;color:#1a1a1a;">MAN</span> Mise à Niveau Hôtellerie Restauration</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Post-Bac,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#999999;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">1 an</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Bourse Ecosup</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Formation initiale ou continue. Financement possible grâce à la mobilisation du CPF ou autres organismes extérieurs.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="10px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#e6e6e6">
+      <mj-column width="20%">
+        <mj-image padding="0" width="224px" src="https://i.ibb.co/jkmfByQp/icon-Hot062025.png" alt="icon hôtel cinq étoiles"/>
       </mj-column>
       <mj-column width="80%">
         <mj-spacer height="20px"></mj-spacer>
         <mj-text align="left" padding="0 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#EC6608;">&#x27A4;</span> <span style="font-weight:700;color:#1a1a1a;">BTS</span> Professions immobilières</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#C21718;">&#x27A4;</span> <span style="font-weight:700;color:#1a1a1a;">BTS</span> Management de l'Hôtellerie - Restauration</mj-text>
         <mj-text align="left" padding="0px 15px" mj-class="T16-400 cT0">
            <span style="color:#999999;">&#x25CF;</span> Post-Bac,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
            <span style="color:#999999;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Diplôme reconnue par l'État</span>,</mj-text>
+        <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="10px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#e6e6e6">
+      <mj-column width="20%">
+        <mj-image padding="0" width="224px" src="https://i.ibb.co/jkmfByQp/icon-Hot062025.png" alt="icon hôtel cinq étoiles"/>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text align="left" padding="0px 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#c21718;">&#x27A4;</span> <span style="font-weight:700;color:#1a1a1a;">Bachelor</span> Responsable commercial en Hôtellerie</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Post-Bac+2,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">1 an</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Travel Week</span>, semaine immersive en mobilité internationale,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#999999;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="10px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#e6e6e6">
+      <mj-column width="20%">
+        <mj-image padding="0" width="224px" src="https://i.ibb.co/jkmfByQp/icon-Hot062025.png" alt="icon hôtel cinq étoiles"/>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text align="left" padding="0px 15px" mj-class="T13-700 cT1" text-transform="uppercase" letter-spacing="1px">Formation en apprentissage</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#C21718;">&#x27A4;</span> <span style="font-weight:700;color:#1a1a1a;">Mastère</span> Manager des Organisations en Hôtellerie</mj-text>
+        <mj-text padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Post-Bac+3,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#999999;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Double certification internationale</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#999999;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
       </mj-column>
     </mj-section>
