@@ -16,6 +16,7 @@
     <mj-attributes>
       <mj-all font-family="Roboto, Arial, Helvetica,sans serif"/>
       <mj-class name="T36-900" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="36px" font-weight="900"/>
+      <mj-class name="T36-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="36px" font-weight="300"/>
       <mj-class name="T24-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="700"/>
       <mj-class name="T24-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="300"/>
       <mj-class name="T16-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700"/>
@@ -71,12 +72,13 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px"> 
       <mj-column width="88%">
-        <mj-text padding="5px 10px" mj-class="T36-900 c0">Paroursup ne vous a pas donné de réponse positive&nbsp;?</mj-text>
-        <mj-text padding="5px 10px" mj-class="T36-900 c0">Rassurez-vous, tout est encore possible.</mj-text>
+        <mj-text padding="5px 10px" padding-bottom="0" mj-class="T36-300 c0" letter-spacing="1px">Parcoursup ne vous a pas donné de réponse positive&nbsp;?</mj-text>
+        <mj-text padding="5px 10px" padding-top="0" mj-class="T36-900 c0" letter-spacing="1px">Rassurez-vous, tout est encore possible.</mj-text>
         <mj-text padding="10px 10px" mj-class="T16-400 cT0">Les résultats tombés il y a quelques jours ont peut-être été une déception... mais ils ne remettent pas en cause votre avenir.</mj-text>
         <mj-text padding="10px 10px" mj-class="T16-400 cT0">Il existe d'autres voies, concrètes et accessibles, pour construire un projet solide dans un secteur passionnant : <span style="font-weight:700;color:#1a1a1a;">le tourisme</span>.</mj-text>
+        <mj-text padding="10px 10px" mj-class="T16-400 cT0">Vous vous intéressez aux voyages, aux cultures, à l'organisation de séjours ou à l'accueil de visiteurs&nbsp;? Venez découvrir nos formations en <span style="font-weight:700;color:#1a1a1a;">BTS Tourisme (en initial ou en alternance)</span>, <span style="font-weight:700;color:#1a1a1a;">Bachelor Tourisme</span> et <span style="font-weight:700;color:#1a1a1a;">Mastère Tourisme</span>, à l'occasion de notre <span style="font-weight:700;color:#1a1a1a;">dernière Journée Portes Ouvertes de l'année</span>.</mj-text>
         <mj-text padding="10px 10px" mj-class="T16-400 cT0">Chez <span style="font-weight:700;color:#1a1a1a;">Ecosup Campus</span>, nous croyons avant tout à l'échange, à l'écoute et à la rencontre. Ici, <span style="font-weight:700;color:#1a1a1a;">ce n'est pas un algorithme ni un dossier impersonnel qui décide de votre avenir</span>, mais un vrai dialogue, humain et bienveillant, avec chaque candidat.</mj-text>
-        <mj-text padding="10px 10px" mj-class="T16-400 cT0">Nos équipes seront présentes pour vous accueillir, répondre à vos questions et vous accompagner, ce que vous veniez de Parcoursup ou non. <span style="font-weight:700;color:#1a1a1a;">Il n'est pas trop tard pour trouver sa voie et démarrer une formation dès la rentrée prochaine</span>.</mj-text>
+        <mj-text padding="10px 10px" mj-class="T16-400 cT0">Nos équipes seront présentes pour vous accueillir, répondre à vos questions et vous accompagner, que vous veniez de Parcoursup ou non. <span style="font-weight:700;color:#1a1a1a;">Il n'est pas trop tard pour trouver sa voie et démarrer une formation dès la rentrée prochaine</span>.</mj-text>
         <mj-text padding="10px 10px" mj-class="T16-700 cT1">Rejoignez-nous et donnez un vrai cap à votre avenir.</mj-text>
       </mj-column>
     </mj-section>
