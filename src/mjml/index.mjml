@@ -16,6 +16,7 @@
     <mj-attributes>
       <mj-all font-family="Roboto, Arial, Helvetica,sans serif"/>
       <mj-class name="T36-900" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="36px" font-weight="900"/>
+      <mj-class name="T36-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="36px" font-weight="300"/>
       <mj-class name="T24-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="700"/>
       <mj-class name="T24-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="300"/>
       <mj-class name="T16-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700"/>
@@ -73,8 +74,7 @@
       <mj-column width="88%">
         <mj-text padding="5px 10px" padding-bottom="0" mj-class="T36-300 c0" letter-spacing="1px"><span style="font-weight:900;">Parcoursup</span> ne vous a pas donné de réponse positive&nbsp;!</mj-text>
         <mj-text padding="5px 10px" padding-top="0" mj-class="T36-900 c0" letter-spacing="1px">Rassurez-vous, tout est encore possible</mj-text>
-        <mj-text padding="10px" mj-class="T16-400 cT0"></mj-text>
-        <mj-text padding="10px" padding-bottom="0" mj-class="T16-400 cT0">Les résultats tombés il y a quelques jours ont peut-être été une déception... mais ils ne remettent pas en cause votre avenir. Il existe d'autres voies, concrètes et accessibles, pour construire un projet solide dans un secteur passionnant : <span style="font-weight:700;color:#1a1a1a;">la santé animale</span>. </mj-text>
+        <mj-text padding="10px" mj-class="T16-400 cT0">Les résultats tombés il y a quelques jours ont peut-être été une déception... mais ils ne remettent pas en cause votre avenir. Il existe d'autres voies, concrètes et accessibles, pour construire un projet solide dans un secteur passionnant : <span style="font-weight:700;color:#1a1a1a;">la santé animale</span>. </mj-text>
         <mj-text padding="0px 10px" padding-top="5px" mj-class="T16-400 cT0">Vous vous intéressez aux soins vétérinaires, au bien-être animal, à l'accompagnement des animaux ou à l'exercice d'un métier au sein d'une clinique&nbsp;? Venez découvrir nos formations</mj-text>
         <mj-text padding="0px 10px" padding-left="20px" mj-class="T16-400 cT0"><span style="color:#008853;">&#x25CF;</span> <span style="font-weight:700;color:#1a1a1a;">ASV</span>, Auxiliaire Spécialisé Vétérinaire</mj-text>
         <mj-text padding="0px 10px" padding-left="20px" mj-class="T16-400 cT0"><span style="color:#008853;">&#x25CF;</span> <span style="font-weight:700;color:#1a1a1a;">Bachelor</span> Chargé(e) de Gestion et Management en Structure Animalière</mj-text>
