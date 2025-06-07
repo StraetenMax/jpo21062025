@@ -16,6 +16,7 @@
     <mj-attributes>
       <mj-all font-family="Roboto, Arial, Helvetica,sans serif"/>
       <mj-class name="T36-900" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="36px" font-weight="900"/>
+      <mj-class name="T36-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="36px" font-weight="300"/>
       <mj-class name="T24-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="700"/>
       <mj-class name="T24-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="300"/>
       <mj-class name="T16-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700"/>
@@ -76,7 +77,7 @@
         <mj-text padding="10px" mj-class="T16-400 cT0">Les résultats tombés il y a quelques jours ont peut-être été une déception... mais ils ne remettent pas en cause votre avenir. Il existe d'autres voies, concrètes et accessibles, pour construire un projet solide dans un secteur passionnant : <span style="font-weight:700;color:#1a1a1a;">le commerce opérationnel</span>.</mj-text>
         <mj-text padding="10px" mj-class="T16-400 cT0">Vous vous intéressez aux commerces, à la gestion et l'optimation des ventes ou à la relation client&nbsp;? Venez découvrir nos formations en <span style="font-weight:700;color:#1a1a1a;">BTS MCO</span> (Management Commercial Opérationnel) et <span style="font-weight:700;color:#1a1a1a;">Bachelor RDC</span> (Responsable Développement Commercial), à l'occasion de notre <span style="font-weight:700;color:#1a1a1a;">dernière Journée Portes Ouvertes de l'année</span>.</mj-text>
         <mj-text padding="5px 10px" mj-class="T16-400 cT0"> <img align="left" width="60px" src="" alt=""/>
-          <div style="font-weight:700;padding-left:70px;color:#1a1a1a;">Samedi 21 juin 2025 de&nbsp;9h30&nbsp;à&nbsp;13h</div>
+          <div style="font-weight:700;padding-left:70px;color:#EC6608;">Samedi 21 juin 2025 de&nbsp;9h30&nbsp;à&nbsp;13h</div>
           <div style="padding-left:70px;font-family:Roboto,Arial,Helvetica,sans-serif;font-style:normal;font-size:13px;line-height:17px;font-weight:400">Ecosup Campus 17 rue des Ursulines - Tourcoing</div>
         </mj-text>
         <mj-text padding="10px" mj-class="T16-400 cT0">Chez <span style="font-weight:700;color:#1a1a1a;">Ecosup Campus</span>, nous croyons avant tout à l'échange, à l'écoute et à la rencontre. Ici, <span style="font-weight:700;color:#1a1a1a;">ce n'est pas un algorithme ni un dossier imporsonnel qui decide de votre avenir</span>, mais un vrai dialogue, humain et bienveillant, avec chaque candidat.</mj-text>
